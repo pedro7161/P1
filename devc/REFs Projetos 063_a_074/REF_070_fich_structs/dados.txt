@@ -1,0 +1,10 @@
+123 ana 22
+333 rui 33
+555 ceu 21
+123 ana 23
+333 leo 26
+123 rato 22
+44 pata 21
+123 rui 22
+333 ana 21
+888 pato 33
